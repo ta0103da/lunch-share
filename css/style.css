@@ -168,6 +168,8 @@ header address {
 ---------------------------------------------------------------------------*/
 #mainimg {
 	margin-bottom: var(--global-space);	/*下に空けるスペース。css冒頭で指定しているglobal-spaceを読み込みます。*/
+	width: 60%;
+	margin: 0 auto;
 }
 
 
